@@ -1,5 +1,5 @@
 # About Me:
-Full stack developer experienced in building responsive web and mobile applications using modern frontend frameworks and backend technologies. Skilled in creating dynamic user interfaces developing server side logic and integrating scalable APIs. Hands on experience with database driven systems API testing and modern JavaScript ecosystems with a strong focus on clean code performance and production ready development practices.
+MERN Stack Developer with extensive experience architecting,developing and scaling full-stack web applications using MongoDB,Express.js,React and Node.js. Proven ability to lead end-to-end application development from system design and frontend architecture to backend services and API strategy. Deep expertise in building secure,high-performance and maintainable solutions,integrating complex databases and delivering production-ready systems. Strong advocate for clean code,performance optimization,best practices and collaborative development in fast-paced environments.
 
 
 # Socials:
