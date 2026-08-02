@@ -105,7 +105,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anas-mustafa490&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anas-mustafa490&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="trophies"/>
 </p>
 
 ### 💬 Random Dev Quote
