@@ -22,7 +22,6 @@
 - 🛠️ Proven ability to lead end-to-end development — system design, frontend architecture, backend services, and API strategy
 - 🔐 Deep expertise in building **secure, high-performance, and maintainable** solutions integrating complex databases
 - 💬 Ask me about **React, Node.js, Express, MongoDB, TypeScript, Redux, Next.js**
-- ⚡ Fun fact: **I ship clean code and I'm proud of it**
 
 ---
 
@@ -30,7 +29,7 @@
 
 <p align="left">
 <a href="https://instagram.com/_gymophile_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gymophile_" height="30" width="40" /></a>
-<a href="mailto:mustafaanas969@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+<a href="mailto:mustafaanas969@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mustafaanas969@gmail.com" height="30" /></a>
 </p>
 
 ---
@@ -96,18 +95,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Anas-mustafa490&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Anas-mustafa490&show_icons=true&theme=radical"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-mustafa490&layout=compact&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Anas-mustafa490&theme=radical&hide_border=false" alt="streak stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Anas-mustafa490&theme=dark&hide_border=false" alt="streak stats"/>
 </p>
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anas-mustafa490&theme=radical&no-frame=false&no-bg=true&margin-w=8&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anas-mustafa490&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophies"/>
 </p>
 
 ### 💬 Random Dev Quote
