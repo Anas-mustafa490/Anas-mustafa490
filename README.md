@@ -102,12 +102,6 @@
   <img src="https://streak-stats.demolab.com?user=Anas-mustafa490&theme=dark&hide_border=false" alt="streak stats"/>
 </p>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Anas-mustafa490&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="trophies"/>
-</p>
-
 ### 💬 Random Dev Quote
 
 <p align="center">
