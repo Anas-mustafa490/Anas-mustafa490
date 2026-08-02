@@ -110,4 +110,4 @@
 
 ---
 
-<p align="center"><i>Proudly built with ❤️ by Anas Mustafa</i></p>
+<p align="center"><i>Built by Anas Mustafa</i></p>
