@@ -21,7 +21,6 @@
 - 🛠️ Proven ability to lead end-to-end development — system design, frontend architecture, backend services, and API strategy
 - 🔐 Deep expertise in building **secure, high-performance, and maintainable** solutions integrating complex databases
 - 💬 Ask me about **React, Node.js, Express, MongoDB, TypeScript, Redux, Next.js**
-- ⚡ Fun fact: **I ship clean code and I'm proud of it**
 
 ---
 
@@ -95,12 +94,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Anas-mustafa490&show_icons=true&theme=dark_dimmed"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-mustafa490&layout=compact&theme=dark_dimmed"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=Anas-mustafa490&show_icons=true&theme=dark_dimmed"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anas-mustafa490&layout=compact&theme=dark_dimmed"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Anas-mustafa490&theme=dark&hide_border=false" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=Anas-mustafa490&theme=dark&hide_border=false" alt="streak stats"/>
 </p>
 
 ### 🏆 GitHub Trophies
