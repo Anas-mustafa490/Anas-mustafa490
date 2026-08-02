@@ -11,7 +11,6 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Anas-mustafa490&label=Profile%20views&color=0e75b6&style=flat" alt="Anas-mustafa490" />
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Anas-mustafa490&icon=0&color=0" alt="visit count"/></a>
 </p>
 
 ---
@@ -22,6 +21,7 @@
 - 🛠️ Proven ability to lead end-to-end development — system design, frontend architecture, backend services, and API strategy
 - 🔐 Deep expertise in building **secure, high-performance, and maintainable** solutions integrating complex databases
 - 💬 Ask me about **React, Node.js, Express, MongoDB, TypeScript, Redux, Next.js**
+- ⚡ Fun fact: **I ship clean code and I'm proud of it**
 
 ---
 
@@ -95,8 +95,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Anas-mustafa490&show_icons=true&theme=radical"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-mustafa490&layout=compact&theme=radical"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Anas-mustafa490&show_icons=true&theme=dark_dimmed"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-mustafa490&layout=compact&theme=dark_dimmed"/>
 </p>
 
 <p align="center">
@@ -106,13 +106,13 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anas-mustafa490&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anas-mustafa490&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4" alt="trophies"/>
 </p>
 
 ### 💬 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote"/>
 </p>
 
 ---
